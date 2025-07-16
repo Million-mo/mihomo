@@ -113,3 +113,7 @@ data_from_json = StarrailInfoParsed.parse_raw(json_data)
 print(type(data_from_pickle))
 print(type(data_from_json))
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MetaCubeX/mihomo&type=Date)](https://www.star-history.com/#MetaCubeX/mihomo&Date)
